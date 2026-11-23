@@ -30,12 +30,14 @@ a day-in-figures box complete the page.
 - **Front page grid, by region:** Russia's 186-drone barrage and the crippled
   Odesa grid; Saudi Arabia intercepting a Houthi missile near Mecca; Iran
   declaring the June deal dead; Korea's AI-exam chaos; Nigeria's funeral-boat
-  toll rising to 24; BepiColombo at Mercury; Verstappen's 0.639-second win
-  in Las Vegas; Boca's Copa Sudamericana title.
+  toll rising to 29; drones killing four near Khartoum; BepiColombo at
+  Mercury; Verstappen's 0.639-second win in Las Vegas; Boca's Copa
+  Sudamericana title.
 - **The day in figures:** 44 hours of overtime, 186 drones, 36 missing
   workers, a 0.639-second winning margin.
-- **In brief:** Mexico's capture of 'El Chapo Isidro', bitcoin's 9% rebound,
-  Wembanyama's 50-point night, Japan Tobacco's record loss.
+- **In brief:** Brazil's storm toll rising to five, bitcoin's 9% rebound,
+  Wembanyama's 50-point night, Japan Tobacco's record loss, COP32's move to
+  Addis Ababa.
 
 Every scene on the page — the cracked globe, the factory fire, the collapsed
 block, the night strike — is drawn in code with flat shapes; no photograph
